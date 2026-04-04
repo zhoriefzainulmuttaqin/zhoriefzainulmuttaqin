@@ -18,3 +18,27 @@
 <a href="https://instagram.com/zhoriefzainulmuttaqin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="zhoriefzainulmuttaqin" height="30" width="40" /></a>
 </p>
 
+## Anime Status Panel
+
+<details>
+<summary>🎌 Click to unlock my ultimate protagonist form</summary>
+
+| MC Attribute | Current Status |
+|---|---|
+| Anime Title | **That Time I Reincarnated as a Fullstack Developer** |
+| Current Arc | Training arc before becoming legendary dev-sama |
+| Aura Color | Neon blue with a suspicious bug-red outline |
+| Signature Move | `Domain Expansion: Unlimited Deploy Works` |
+| Hidden Power | Awakens at 2 AM with lo-fi + kopi |
+| Nemesis | `Syntax Error` and unstable internet-kun |
+| Plot Armor | 9999+ when deadline is tomorrow |
+| Companion | Rubber duck sensei |
+| Final Form | Dark mode eyes, production-ready soul |
+
+</details>
+
+> "Ore wa bug wo taosanai... bug yang takut duluan padaku." 
+
+
+
+[![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=zhoriefzainulmuttaqin&theme=github-compact)](https://github.com/ZHORIEF)
