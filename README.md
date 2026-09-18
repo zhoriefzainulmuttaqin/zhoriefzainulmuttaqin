@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **How to be anime char**
 
-- 📫 How to reach me **zhoriefzainulmuttaqin@gmail.com**
+- 📫 How to reach me **halo@zhorief.com**
 
 - ⚡ Fun fact **I think i'm MC in anime**
 
@@ -38,7 +38,3 @@
 </details>
 
 > "Ore wa bug wo taosanai... bug yang takut duluan padaku." 
-
-
-
-[![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=zhoriefzainulmuttaqin&theme=github-compact)](https://tinycatstudio.tech)
